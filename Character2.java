@@ -7,6 +7,7 @@ public class Character2 {
     int mana;
     String species;
 
+    
     public Character2(String name, int level, int life, int mana, String species) {
         this.name = name;
         this.level = level;
