@@ -1,3 +1,8 @@
+
+/**
+ * MVC 패턴을 지킨 코드
+ */
+
 public class Main2 {
     public static void main(String[] args) {
         Character2 model = new Character2("홍길동", 1, 100, 100, "인간");

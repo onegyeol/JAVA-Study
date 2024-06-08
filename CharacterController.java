@@ -1,6 +1,7 @@
 public class CharacterController {
     Character2 model;
     CharacterView view;
+    
 
     public CharacterController(Character2 model, CharacterView view){
         this.model = model;

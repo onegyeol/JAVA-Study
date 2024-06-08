@@ -1,7 +1,5 @@
 public class CharacterView {
-    public CharacterView(){
-
-    }
+    public CharacterView(){}
     
     public void view_status(Character2 model){
         
